@@ -7,6 +7,8 @@ This repository provides clean and reproducible R implementations of the **restr
 
 > **“Restricted Block Permutation for Two-Sample Testing” (2025)**  
 > A structured permutation scheme using kernel-based quantile blocks and complementary block-pair swaps, achieving exact validity with significantly reduced variance.
+> [![arXiv](https://img.shields.io/badge/arXiv-2511.13602-b31b1b.svg)](https://arxiv.org/abs/2512.00668)
+
 
 ## 📁 Repository Structure/mean_diff/
 mean_diff.R # 1D mean-difference test
